@@ -1,4 +1,4 @@
-package src.ex03;
+package src.ex3;
 
 import javax.swing.*;
 

@@ -1,7 +1,6 @@
-package src.ex03;
+package src.ex3;
 
 import javax.swing.*;
-import java.net.StandardSocketOptions;
 
 public class Relacao {
     public void relacionamento(int n1, int n2, int n3){
